@@ -2,4 +2,4 @@
 
 아래 링크를 클릭해주세요
 
-- https://user0517.github.io/react/
+- https://user0517.github.io/react_calc/
